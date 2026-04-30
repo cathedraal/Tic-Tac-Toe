@@ -48,3 +48,4 @@ git clone https://github.com/your-username/advanced-tic-tac-toe.git
 Open index.html in any modern web browser.
 
 Github Pages
+https://cathedraal.github.io/Tic-Tac-Toe/
